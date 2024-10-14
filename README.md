@@ -9,6 +9,7 @@ This repository contains a comprehensive fire detection system with three key fu
 3. **Real-Time Fire Detection**: This feature allows detection of fire in real-time video streams, such as from webcams or security cameras.
 
 **Sample result**:
+
 ![Alt Text](sample_result/processed_video.gif)
 
 <p align="center">
