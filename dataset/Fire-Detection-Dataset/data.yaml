@@ -1,0 +1,6 @@
+train: /content/Fire-Detection-Dataset/train/images
+val: /content/Fire-Detection-Dataset/valid/images
+test: /content/Fire-Detection-Dataset/test/images
+
+nc: 1
+names: ['fire']
