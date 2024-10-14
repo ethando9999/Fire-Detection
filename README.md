@@ -9,11 +9,7 @@ This repository contains a comprehensive fire detection system with three key fu
 3. **Real-Time Fire Detection**: This feature allows detection of fire in real-time video streams, such as from webcams or security cameras.
 
 **Sample result**:
-
-<video width="600" controls >
-  <source src="sample_result/processed_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt Text](sample_result/processed_video.gif)
 
 <p align="center">
   <img src="sample_result/processed_image.jpg" alt="The system detected fire in this image, and the regions with fire have been highlighted." />
